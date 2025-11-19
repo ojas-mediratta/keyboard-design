@@ -1,0 +1,22 @@
+Original CNC O-Ring Mount Board Design.
+Files Included:
+- f3d drafts for modifications and changes if desired
+- STEP files ready to send to manufacturer
+
+Notes:
+- Engraving depth will be 0.5mm
+- When working with manufacturer, make sure to ask 
+for several pics of different materials and finishes.
+- If going for a mirror finish on the weight, make sure 
+to request PVD or Electroplating over a polished mirror
+finish, as the polishing reveals marks/lines in the final
+product.
+- Ask for an extra set of screws as these are free and
+may come in handy.
+- Mention that tolerances should be 0.2mm for parts that fit together
+(if asked).
+
+Please let me know if you have any questions.
+It's been a pleasure doing business!
+
+	- hummusking#7782

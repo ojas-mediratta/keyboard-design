@@ -1,0 +1,25 @@
+Zero Two Darling weight design for Kalam Unikorn.
+Files Included:
+- f3d drafts for modifications and changes if desired
+- STEP files ready to send to manufacturer
+
+Notes (For Over-the-shoulder design):
+- Engraving depth will be 0.3mm
+- When working with manufacturer, make sure to ask 
+for several pics of different materials and finishes.
+- If going for a mirror finish on the weight, make sure 
+to request PVD or Electroplating over a polished mirror
+finish, as the polishing reveals marks/lines in the final
+product.
+- Ask for an extra set of screws as these are free and
+may come in handy.
+
+Please let me know if you have any questions.
+It's been a pleasure doing business!
+
+*Make sure to use "BlankCaseDeepWeightRecess.step" if you choose the
+two-piece weight design. This is so that the two piece weight has the 
+same clearance under the board that would be there normally. It will still
+work fine on the refular file, but the deeper weight recess is preferred. 
+
+	- hummusking#7782
